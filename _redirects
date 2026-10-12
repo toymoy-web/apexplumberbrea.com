@@ -1,1 +1,21 @@
-# No redirects currently needed.
+# 301s for blog posts whose slugs gained the city name (v11)
+/blog/how-to-shut-off-your-water-main-in-an-emergency/ /blog/shut-off-water-main-emergency-brea/ 301
+/blog/how-to-shut-off-your-water-main-in-an-emergency /blog/shut-off-water-main-emergency-brea/ 301
+/blog/what-to-do-before-an-emergency-plumber-arrives/ /blog/before-emergency-plumber-arrives-brea/ 301
+/blog/what-to-do-before-an-emergency-plumber-arrives /blog/before-emergency-plumber-arrives-brea/ 301
+/blog/why-is-my-water-bill-so-high/ /blog/why-is-my-water-bill-high-brea/ 301
+/blog/why-is-my-water-bill-so-high /blog/why-is-my-water-bill-high-brea/ 301
+/blog/how-often-should-drains-be-professionally-cleaned/ /blog/how-often-should-drains-be-cleaned-brea/ 301
+/blog/how-often-should-drains-be-professionally-cleaned /blog/how-often-should-drains-be-cleaned-brea/ 301
+/blog/preparing-pool-plumbing-for-summer-orange-county/ /blog/pool-plumbing-summer-prep-brea/ 301
+/blog/preparing-pool-plumbing-for-summer-orange-county /blog/pool-plumbing-summer-prep-brea/ 301
+/blog/homeowners-insurance-and-burst-pipes/ /blog/homeowners-insurance-burst-pipes-brea/ 301
+/blog/homeowners-insurance-and-burst-pipes /blog/homeowners-insurance-burst-pipes-brea/ 301
+/blog/backflow-testing-requirements-california/ /blog/backflow-testing-requirements-brea/ 301
+/blog/backflow-testing-requirements-california /blog/backflow-testing-requirements-brea/ 301
+/blog/sewer-line-repair-or-replacement/ /blog/sewer-line-repair-or-replacement-brea/ 301
+/blog/sewer-line-repair-or-replacement /blog/sewer-line-repair-or-replacement-brea/ 301
+/blog/repair-vs-replace-aging-water-heater/ /blog/repair-or-replace-water-heater-brea/ 301
+/blog/repair-vs-replace-aging-water-heater /blog/repair-or-replace-water-heater-brea/ 301
+/blog/what-to-check-before-calling-about-a-clogged-drain/ /blog/check-clogged-drain-before-calling-brea/ 301
+/blog/what-to-check-before-calling-about-a-clogged-drain /blog/check-clogged-drain-before-calling-brea/ 301
