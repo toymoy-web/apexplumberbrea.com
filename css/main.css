@@ -220,3 +220,10 @@ body{line-height:1.7}
 @media(max-width:480px){
   footer .wrap{grid-template-columns:1fr}
 }
+
+/* social links */
+.social-row{margin-top:14px}
+.social-label{display:block;margin-bottom:8px;color:var(--navy-d);font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+.social-list{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.social-list a{display:inline-block;margin:0;padding:6px 12px;border:1px solid var(--line);border-radius:999px;font-size:13px;font-weight:600;color:var(--navy);text-decoration:none}
+.social-list a:hover,.social-list a:focus-visible{background:var(--navy);color:#fff;border-color:var(--navy)}
